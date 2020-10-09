@@ -4,7 +4,7 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <link href="stylesheet" type="style/css" media="all">
-    <title>Rose Andrejczyk's Resume</title>
+ 
   </head>
   <body style="  background-color:#F0FFFF">
     <table style="width: 250px; height: 50px;">
